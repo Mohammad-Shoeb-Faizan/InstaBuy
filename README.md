@@ -1,2 +1,2 @@
-# InstaBuy
- 
+# InstaBuy.io
+ E-Commerce App
